@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/michaelpfizer/social-media-picture-explorer.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bt-test-team.visualstudio.com/AKB%20Project/_git/kibana-dashboard" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\GARCM200\PycharmProjects" />
